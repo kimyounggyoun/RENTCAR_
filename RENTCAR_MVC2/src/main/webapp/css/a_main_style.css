@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+}
+
+.box {
+	height: 800px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.top {
+	height: 100px;
+	width: 100%;
+}
+
+.main {
+	height: 600px;
+	width: 100%;
+}
+
+.bottom {
+	height: 100px;
+	width: 100%;
+}

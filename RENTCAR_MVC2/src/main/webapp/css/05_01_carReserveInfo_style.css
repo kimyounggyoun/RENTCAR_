@@ -1,0 +1,84 @@
+.resBox {
+	width: 1000px;
+	height: 600px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+}
+
+.resTopBox {
+	width: 100%;
+	height: 80px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 20px;
+	font-weight: bold;
+	color: gray;
+}
+
+.resMainBox {
+	width: 100%;
+	height: 450px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.optionImg {
+	width: 500px;
+	height: 450px;
+	display: flex;
+	align-items: center;
+}
+
+.optionView {
+	width: 500px;
+	height: 450px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: column;
+}
+
+.optionRows {
+	width: 100%;
+	height: 15%;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.optionColumns {
+	width: 100%;
+}
+
+.optionCnt {
+	width: 150px;
+	height: 20px;
+}
+
+.optionSel {
+	width: 150px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: black;
+}
+
+.resBotBox {
+	width: 100%;
+	height: 70px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 15px;
+	font-weight: bold;
+	color: gray;
+}
+
+input[type="date" i] {
+	align-items: center;
+	text-align: center;
+}
